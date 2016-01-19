@@ -1,5 +1,7 @@
 ## ![AngularJS](http://i.imgur.com/jerfRGy.png) AngularJS Education
 
+[![Join the chat at https://gitter.im/unbug/angular-education](https://badges.gitter.im/unbug/angular-education.svg)](https://gitter.im/unbug/angular-education?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### *“A collection of useful resources to learn and improve your [AngularJS](http://www.angularjs.org) skills.”*
 
 If you want to submit a link just head over to [CONTRIBUTING.md](https://github.com/timjacobi/angular-education/blob/master/CONTRIBUTING.md) for further instructions.
